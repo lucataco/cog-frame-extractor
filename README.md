@@ -42,3 +42,7 @@ cog predict -i video=@sample_video.mp4 -i return_first_frame=true
 ## Technical Information
 
 This model uses OpenCV (cv2) to process video files and extract frames with high fidelity. It supports all video formats compatible with OpenCV. 
+
+## License
+
+The code in this repository is licensed under the [Apache License 2.0](LICENSE).
